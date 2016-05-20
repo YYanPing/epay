@@ -1,0 +1,10 @@
+.idea
+node_modules
+npm-debug.log
+publish.sh
+*.DS_Store
+logs
+.project
+fonts
+*.jpg
+db
